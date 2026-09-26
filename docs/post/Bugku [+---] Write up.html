@@ -94,20 +94,18 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 分类：Crypot<br>
 题目给出的密文由 +、-、&gt;、&lt;、[、] 组成，是典型的 Brainfuck（BF）极简编程语言特征。<br>
 Brainfuck 仅有 8 条指令，CTF 中仅需掌握核心 6 条即可解题：<br>
-+：当前内存单元格数值 +1<br>
--：当前内存单元格数值 -1</p>
-<blockquote>
-<p>：数据指针右移<br>
-&lt;：数据指针左移<br>
-.：输出当前单元格 ASCII 字符<br>
-[]：循环结构，对应条件跳转<br>
+(+)：当前内存单元格数值 +1<br>
+(-)：当前内存单元格数值 -1<br>
+(&gt;)：数据指针右移<br>
+(&lt;)：数据指针左移<br>
+(.)：输出当前单元格 ASCII 字符<br>
+([])：循环结构，对应条件跳转<br>
 利用python编写程序进行解码<br>
 def brainfuck_decode(code):<br>
 tape = [0] * 30000<br>
 ptr = pc = 0<br>
 bracket_map = {}<br>
 stack = []</p>
-</blockquote>
 <pre class="notranslate"><code class="notranslate">## 预处理括号跳转映射
 for idx, char in enumerate(code):
     if char == "[":
