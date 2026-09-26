@@ -11,7 +11,7 @@
 ![乱码](/static/luanma.png)
 
 下拉找到`&#***;`形式的 HTML 实体编码字符串。
-![编码](/static/bianma.png)
+![编码](https://3096202307.github.io/Cgoc04.github.io/static/bianma.png)
 
 使用HTML解码工具对该编码进行解码后得到flag。
 ![flag](/static/flag.png)
