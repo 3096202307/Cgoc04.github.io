@@ -1,4 +1,3 @@
-<img width="678" height="756" alt="Image" src="https://github.com/user-attachments/assets/e06adc2e-ac76-4569-8ba9-07a3217480e0" />
 
 平台：bugku
 题目：这是一张单纯的图片
@@ -7,6 +6,7 @@
 题目给出一张 jpg 图片，提示 flag 格式为`key{}`，从图片肉眼观察看不到任何信息，需要从文件本身寻找隐藏内容。
 
 下载图片，保存为`1.jpg`。
+<img width="678" height="756" alt="Image" src="https://github.com/user-attachments/assets/f0a2e16f-f2db-4908-af55-95a2d245035e" />
 
 用Windows自带的记事本打开该图片，发现是一堆乱码。
 
