@@ -5,7 +5,7 @@
 题目给出一张 jpg 图片，提示 flag 格式为`key{}`，从图片肉眼观察看不到任何信息，需要从文件本身寻找隐藏内容。
 
 下载图片，保存为`1.jpg`。
-![题目](/Cgoc04.github.io/static/ti.png)
+![题目](/static/ti.png)
 
 用Windows自带的记事本打开该图片，发现是一堆乱码。
 ![乱码](/static/luanma.png)
