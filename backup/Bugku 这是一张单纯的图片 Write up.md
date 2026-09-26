@@ -8,12 +8,12 @@
 ![题目](/Cgoc04.github.io/static/ti.png)
 
 用Windows自带的记事本打开该图片，发现是一堆乱码。
-![乱码](/3096202307/Cgoc04.github.io/blob/main/static/luanma.png)
+![乱码](/Cgoc04.github.io/static/luanma.png)
 
 下拉找到`&#***;`形式的 HTML 实体编码字符串。
-![编码](/3096202307/Cgoc04.github.io/blob/main/static/jiema.png)
+![编码](/Cgoc04.github.io/static/bianma.png)
 
 使用HTML解码工具对该编码进行解码后得到flag。
-![flag](/3096202307/Cgoc04.github.io/blob/main/static/flag.png)
+![flag](/Cgoc04.github.io/static/flag.png)
 
 提交flag，flag正确，完活。
