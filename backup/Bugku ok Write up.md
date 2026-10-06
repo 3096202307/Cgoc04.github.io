@@ -1,6 +1,6 @@
 平台：bugku
 题目：ok
-分类：Crypot
+分类：Crypto
 
 打开附件，内容是大量 `Ook.` `Ook?` `Ook!` 组成的字符串，没有其他提示，根据题目所给信息可知为"Ook!"编码形式。
 <img width="2282" height="1306" alt="Image" src="https://github.com/user-attachments/assets/c42509ae-d6a0-4dc1-acdf-3bc4870106ad" />
