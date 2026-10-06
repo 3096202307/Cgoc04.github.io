@@ -1,6 +1,6 @@
 平台：Bugku
 题目：把猪困在猪圈里
-分类：Crypot
+分类：Crypto
 
 下载题目所给附件，得到一个名为“file”的txt文本文档。
 <img width="96" height="138" alt="Image" src="https://github.com/user-attachments/assets/51ea8933-1802-4d82-b0a9-60d6ca6c9c43" />
