@@ -1,6 +1,6 @@
 平台：Bugku
 题目：.?!
-类型：Crypot
+类型：Crypto
 
 下载题目所给附件，得到名为“flag”的txt文本，打开后得到包含“.”、“?”、“!”的一串每五个字符为一组的长字符。
 <img width="860" height="896" alt="Image" src="https://github.com/user-attachments/assets/3fe90022-30e6-4d10-a326-5e147b57e4de" />
