@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://3096202307.github.io/Cgoc04.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://3096202307.github.io/Cgoc04.github.io</link></image><lastBuildDate>Thu, 08 Oct 2026 10:07:43 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Bugku 黄道十二宫 Write up</title><link>https://3096202307.github.io/Cgoc04.github.io/post/Bugku%20-huang-dao-shi-er-gong-%20Write%20up.html</link><description>**平台**：Bugku
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://3096202307.github.io/Cgoc04.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://3096202307.github.io/Cgoc04.github.io</link></image><lastBuildDate>Sat, 17 Oct 2026 12:13:07 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Bugku 备份是个好习惯 Write up</title><link>https://3096202307.github.io/Cgoc04.github.io/post/Bugku%20-bei-fen-shi-ge-hao-xi-guan-%20Write%20up.html</link><description>平台：Bugku
+题目：备份是个好习惯
+分类：WEB
+
+打开题目所给靶机地址，页面只有一行内容：
+
+    d41d8cd98f00b204e9800998ecf8427ed41d8cd98f00b204e9800998ecf8427e
+
+没有输入框、没有链接、没有 JS、没有注释。</description><guid isPermaLink="true">https://3096202307.github.io/Cgoc04.github.io/post/Bugku%20-bei-fen-shi-ge-hao-xi-guan-%20Write%20up.html</guid><pubDate>Sat, 17 Oct 2026 12:12:36 +0000</pubDate></item><item><title>Bugku 黄道十二宫 Write up</title><link>https://3096202307.github.io/Cgoc04.github.io/post/Bugku%20-huang-dao-shi-er-gong-%20Write%20up.html</link><description>**平台**：Bugku
 **题目**：黄道十二宫
 **分类**：Crypto 
 
