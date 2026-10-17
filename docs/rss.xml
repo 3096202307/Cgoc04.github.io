@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://3096202307.github.io/Cgoc04.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://3096202307.github.io/Cgoc04.github.io</link></image><lastBuildDate>Sat, 17 Oct 2026 12:13:07 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Bugku 备份是个好习惯 Write up</title><link>https://3096202307.github.io/Cgoc04.github.io/post/Bugku%20-bei-fen-shi-ge-hao-xi-guan-%20Write%20up.html</link><description>平台：Bugku
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://3096202307.github.io/Cgoc04.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://3096202307.github.io/Cgoc04.github.io</link></image><lastBuildDate>Sat, 17 Oct 2026 13:42:46 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Bugku 抄错的字符 Write up</title><link>https://3096202307.github.io/Cgoc04.github.io/post/Bugku%20-chao-cuo-de-zi-fu-%20Write%20up.html</link><description>平台：Bugku
+题目：抄错的字符
+分类：Crypto
+
+题目描述
+
+&gt; 老师让小明抄写一段话，结果粗心的小明把部分数字抄成了字母，还因为强迫症把所有字母都换成大写。</description><guid isPermaLink="true">https://3096202307.github.io/Cgoc04.github.io/post/Bugku%20-chao-cuo-de-zi-fu-%20Write%20up.html</guid><pubDate>Sat, 17 Oct 2026 13:42:11 +0000</pubDate></item><item><title>Bugku 备份是个好习惯 Write up</title><link>https://3096202307.github.io/Cgoc04.github.io/post/Bugku%20-bei-fen-shi-ge-hao-xi-guan-%20Write%20up.html</link><description>平台：Bugku
 题目：备份是个好习惯
 分类：WEB
 
